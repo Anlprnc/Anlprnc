@@ -1,7 +1,7 @@
 ![MasterHead](https://images.unsplash.com/photo-1542831371-32f555c86880?h=500&w=1600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3)
 
 <h1 align="center">Anıl Pirinççi</h1>
-<h3 align="center">Backedn Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
