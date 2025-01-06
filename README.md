@@ -1,4 +1,4 @@
-<div><strong>Anıl Pirinççi</strong> <br>Backend Developer</div>
+<div><strong>Anıl Pirinççi</strong> <br>Full Stack Developer</div>
 
 
 ## 🌐 Socials:
