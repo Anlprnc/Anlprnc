@@ -1,6 +1,7 @@
-<div><strong>Anıl Pirinççi</strong> <br>Full Stack Developer</div>
+# <div><strong>Anıl Pirinççi</strong> </div>
+## Full Stack Developer
 
 
-## My Porfolio
+### My Porfolio
 https://portfolio-six-blond-99.vercel.app
 
